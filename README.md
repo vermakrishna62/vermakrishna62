@@ -5,7 +5,7 @@
 ---
 
 ## 🛠 Tech Stack
-- **Languages:** C#, Java, JavaScript, Python
+- **Languages:** C#, Java, JavaScript, Python, SQL
 - **Frameworks:** ASP.NET Core (6, 8, 9, 5, 3.1), Next.js
 - **Databases:** SQL Server 2022, MongoDB
 - **Technologies:**
