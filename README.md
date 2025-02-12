@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Krishnakant Verma
 
-🚀 **Trainee Software Engineer** at **Fendahl Technologies**
+🚀 **Software Engineer** at **Fendahl Technologies**
 
 ---
 
